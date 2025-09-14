@@ -30,7 +30,7 @@ We aim to understand:
 ---
 
 ## 📊 Visualizations
-![Category Returns](Return orders By category.png)
+![Category Returns](https://github.com/PhiWhyyy/E-Commerce-Business-Analysis/blob/main/Return%20orders%20By%20category.png)
 ![Category Cancellations](visuals/category_sales.png)
 ![City Orders](visuals/city_orders.png)
 
