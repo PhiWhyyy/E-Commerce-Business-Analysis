@@ -31,8 +31,9 @@ We aim to understand:
 
 ## 📊 Visualizations
 ![Category Returns](https://github.com/PhiWhyyy/E-Commerce-Business-Analysis/blob/main/Return%20orders%20By%20category.png)
-![Category Cancellations](visuals/category_sales.png)
-![City Orders](visuals/city_orders.png)
+![Category Cancellations](https://github.com/PhiWhyyy/E-Commerce-Business-Analysis/blob/main/Cancelled%20orders%20by%20Category.png)
+![Payment Methods by City](https://github.com/PhiWhyyy/E-Commerce-Business-Analysis/blob/main/Payment%20Methods%20by%20City.png)
+![Product Distribution by City](https://github.com/PhiWhyyy/E-Commerce-Business-Analysis/blob/main/Pdt%20Dist%20by%20City.png)
 
 ---
 
