@@ -21,16 +21,17 @@ We aim to understand:
 
 **Insights:**
 - **Category Performance:** Electronics contributes **54.24%** of revenue, followed by Furniture.
-- **Top Product:** `Laptop` (₹72,000 each) — contributed **₹562,000** in sales.
+- **Top Product:** `Laptop` (₹72,000 each),contributed **₹562,000** in sales.
 - **Lowest Performing Product:** `Coffee Table` (₹6,800 each).
 - **Geographical Trends:** **Mumbai** recorded the highest number of orders (16).
 - **Payment Trends:** **UPI** is the most preferred payment method (24.47%).
-- **Returns:** Furniture has the highest return rate; Delhi shows maximum returns — potential quality/control issue to investigate.
+- **Returns:** Furniture has the highest return rate; Delhi shows maximum returns , potential quality/control issue to investigate.
 
 ---
 
 ## 📊 Visualizations
-![Category Sales](visuals/category_sales.png)
+![Category Returns](Return orders By category.png)
+![Category Cancellations](visuals/category_sales.png)
 ![City Orders](visuals/city_orders.png)
 
 ---
